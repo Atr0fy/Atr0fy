@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Bem-vindo 😃, eu sou o Lucas Nascimento</h1>
+<h3 align="center">Desenvolvedor iniciante</h3>
 
-<!--
-**Atr0fy/Atr0fy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img alt="codingif" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
+<h1>
+<h3 align="left">Atualmente eu estou estudando:</h3>
 
-Here are some ideas to get you started:
+- Javascript
+- CSS3
+- HTML5
+- C++
+<h1>
+<h3 align="left">Pretendo ser:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full stack developer
+
+<h3 align="left">Projetos:</h3>
