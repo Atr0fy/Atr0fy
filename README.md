@@ -5,10 +5,18 @@
 <h1>
 <h3 align="left">Atualmente eu estou estudando:</h3>
 
-- Javascript
-- CSS3
-- HTML5
-- C++
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c" />
+  </a>
+</p>
+
+JavaScript <br>
+HTML5 <br>
+CSS <br>
+C <br> 
+
+
 <h1>
 <h3 align="left">Pretendo ser:</h3>
 
