@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ JavaScript <br>
 HTML5 <br>
 CSS <br>
 C++ <br> 
-
+Figma 
 
 <h1>
 <h3 align="left">Pretendo ser:</h3>
