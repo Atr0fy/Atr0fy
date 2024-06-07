@@ -20,7 +20,7 @@ Figma
 <h1>
 <h3 align="left">Pretendo ser:</h3>
 
-- Full stack developer
+- Front end Developer
 
 <h3 align="left">Projetos:</h3>
 
