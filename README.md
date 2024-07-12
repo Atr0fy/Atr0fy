@@ -16,11 +16,6 @@ CSS <br>
 C++ <br> 
 Figma 
 
-<h1>
-<h3 align="left">Pretendo ser:</h3>
-
-- Front end Developer
-
 <h3 align="left">Projetos:</h3>
 
 - https://github.com/Atr0fy/Functiontrix
